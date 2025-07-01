@@ -27,9 +27,9 @@ ev-ml-project/
 
 ---
 
-## 📦 Dataset Info
+# > 📌 Dataset Source:  
+> [Kaggle - Electric Vehicle Specifications 2025 by urvishahir](https://www.kaggle.com/datasets/urvishahir/electric-vehicle-specifications-dataset-2025)
 
-- 📍 Source: [Kaggle EV Dataset 2025](https://www.kaggle.com/datasets/imaadmahmood/electric-vehicle-specifications-dataset-2025)  
 - 🔢 Records: 478 EV models  
 - 📌 Features: Battery, Charging, Speed, Acceleration, Dimensions, Segment, Drivetrain, etc.
 
