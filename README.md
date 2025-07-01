@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/05872c1f-3d9d-4015-a8b8-c506fc10d0e8)
+
+
 # ⚡ Electric Vehicle Specifications 2025 — Data Science & ML Project 🚗
 
 This project explores a dataset of **478 modern electric vehicles**, analyzing their performance, range, efficiency, charging, and dimensions. It also uses machine learning to predict **range** and **market segment** using real-world specs.
